@@ -33,8 +33,8 @@ toc:
 **Caltech** — Arthur R. Adams SURF Fellow, Saul and Joan Cogen Memorial SURF Fellow
 *Pasadena, CA* — *Dec 2021 – Jul 2025*
 
-* **River migration hazard forecasting:** Built Bayesian models and Monte Carlo simulations to predict river migration, delivering probabilistic hazard forecasts with quantified uncertainty for infrastructure risk assessment; presented at the [2022](https://ui.adsabs.harvard.edu/abs/2022AGUFMEP35A..06N/abstract) and [2024](https://ui.adsabs.harvard.edu/abs/2024AGUFMEP21D..01W/abstract) American Geophysical Union (AGU) Annual Meetings. See: “Geomorphic risk maps for river migration using probabilistic modeling – a framework.”
-* **Floc structure quantification:** Developed a stratified image analysis pipeline to infer 3D fractal dimensions of mud flocs from 2D imaging. Demonstrated that standard aggregation overestimates density, improving sediment transport prediction in aquatic environments. See: “Constraining the Distribution of 3D Fractal Structures in Mud Flocs.”
+* **River migration hazard forecasting:** Built Bayesian models and Monte Carlo simulations to predict river migration, delivering probabilistic hazard forecasts with quantified uncertainty for infrastructure risk assessment; presented at the [2022](https://ui.adsabs.harvard.edu/abs/2022AGUFMEP35A..06N/abstract) and [2024](https://ui.adsabs.harvard.edu/abs/2024AGUFMEP21D..01W/abstract) American Geophysical Union (AGU) Annual Meetings. [“Geomorphic risk maps for river migration using probabilistic modeling – a framework.”](https://esurf.copernicus.org/articles/12/691/2024/)
+* **Floc structure quantification:** Developed a stratified image analysis pipeline to infer 3D fractal dimensions of mud flocs from 2D imaging. Demonstrated that standard aggregation overestimates density, improving sediment transport prediction in aquatic environments. [“Constraining the Distribution of 3D Fractal Structures in Mud Flocs.”](https://thesis.library.caltech.edu/17446/)
 
 **TECHtonics Research Group, Georgia Tech** — NSF REU Researcher
 *Atlanta, GA* — *May 2023 – Jul 2023*
