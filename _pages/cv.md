@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
-cv_pdf: braydennohresume.pdf
+cv_pdf: BraydenNohResumeHarvard.pdf
 description: Full curriculum vitae for Brayden Noh. PDF version available above.
 toc:
   sidebar: left
