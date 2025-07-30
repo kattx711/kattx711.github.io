@@ -23,8 +23,8 @@ latest_posts:
   limit: 3
 ---
 
-Hi, I’m **Brayden Noh**, a senior at **Caltech** studying Earth science and computational modeling. I study how physical processes and statistical phenomena influence surface and subsurface dynamics.
+Hi, I’m **Brayden Noh**, a senior at **Caltech** studying Earth science and computational modeling. I study how physical processes and statistical phenomena affect surface and subsurface dynamics.
 
 I’ve previously worked with [Michael Lamb](https://lamb.caltech.edu/), [Omar Wani](https://www.omarwani.com/), [Karl Lang](https://www.karllang.info/), and [Vinamra Agrawal](https://vinagr.github.io/) on projects ranging from asteroid impact simulations to geomorphic probabilistic risk modeling.
 
-Starting this fall, I’ll be pursuing a PhD in Earth and Planetary Sciences at **Harvard**, where I’ll be advised by [Brendan Meade](https://brendanjmeade.github.io/).
+Starting this fall, I’ll be pursuing a PhD in Earth and Planetary Sciences at **Harvard**, where I’ll be advised by [Brendan Meade](https://brendanjmeade.github.io/). My research will focus on earthquake cycles and the interactions between tectonic deformation and landscape evolution.
