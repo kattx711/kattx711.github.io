@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='https://www.caltech.edu' target='_blank'>California Institute of Technology</a> | snoh@caltech.edu"
+subtitle: "<a href='https://eps.harvard.edu/' target='_blank'>Harvard Earth and Planetary Sciences</a> | braydennoh@fas.harvard.edu"
 
 profile:
   align: right
