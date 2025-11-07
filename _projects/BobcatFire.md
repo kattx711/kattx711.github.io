@@ -2,7 +2,6 @@
 layout: page
 title: Bobcat Fire CO Emissions
 description: Satellite-based modeling of carbon monoxide emissions from the 2020 Bobcat Fire
-img: assets/img/blogcover/Slide3.jpeg
 importance: 2
 category: project
 giscus_comments: true
