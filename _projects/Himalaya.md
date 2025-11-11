@@ -10,6 +10,7 @@ giscus_comments: false
 One can infer vertical uplift from the elastic dislocation model for a thrust fault. I'm using solutions from Chapter 3 of *Earthquake and Volcano Deformation* by Paul Segall (2010).
 
 Equation (3.70): Surface displacements (buried semi-infinite fault)
+
 This equation calculates the surface displacement from a single, buried edge dislocation whose top is at depth *d*.
 
 $$
@@ -20,6 +21,7 @@ u_2(x_1, x_2 = 0) &= -\frac{s}{\pi}\Big[ \sin\delta \tan^{-1}(\zeta) + \frac{\co
 $$
 
 Equation (3.73): Surface displacements (finite-width, surface-breaking fault)
+
 This equation models a fault that ruptures from the surface down to a depth *d*. 
 
 $$
