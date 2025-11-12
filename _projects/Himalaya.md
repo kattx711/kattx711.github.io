@@ -52,16 +52,9 @@ It seems clear that in the Himalayas, there is a flat–ramp–flat structure, a
 
 ## Fold Slip and Kinematic Balance
 
-Based on CoInterFaultFold2D ([Meade, GitHub](https://github.com/brendanjmeade/CoInterFaultFold2D/)), 
-the idea of thin-skinned deformation is that a fold acts as a kinematic hinge above a fault-bend ramp. 
-As slip propagates along the ramp, the fold accommodates excess horizontal shortening while maintaining 
-vertical continuity of material. In this sense, the fold lifts the overlying sedimentary mass, 
-converting horizontal motion into vertical uplift. 
+Based on CoInterFaultFold2D ([Meade, GitHub](https://github.com/brendanjmeade/CoInterFaultFold2D/)), thin-skinned deformation can be viewed as a fold acting as a kinematic hinge above a fault-bend ramp. As the ramp slips, the fold accommodates excess horizontal shortening while maintaining vertical continuity, lifting the overlying sedimentary mass and converting horizontal motion into vertical uplift. 
 
-In a flat–ramp–flat geometry, the ramp behaves as a dipping thrust fault, while the fold represents 
-the bisector surface connecting the ramp to the overlying horizontal flat. Together, they form a simple 
-kinematic wedge. As the ramp transfers slip upward, the fold redistributes it to maintain a continuous 
-topographic surface. Each fault segment contributes a vertical component of slip rate given by
+In a flat–ramp–flat geometry, the ramp behaves as a dipping thrust fault, and the fold defines the bisector surface connecting the ramp to the overlying flat. Together they form a simple kinematic wedge. The ramp transfers slip upward, the fold redistributes it to maintain a continuous topographic surface. Each segment contributes a vertical component of slip rate:
 
 $$
 \begin{aligned}
@@ -96,3 +89,25 @@ $$
     {% include figure.liquid path="/assets/img/rampislocked/foldfamp.png" title="Fold Ramp" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
+
+For example,
+
+$$
+\begin{aligned}
+\delta_{\text{ramp}} &= 45^{\circ}, \\
+\delta_{\text{fold}} &= 67.5^{\circ}, \\
+S_{\text{ramp}} &= 20~\text{mm/yr}.
+\end{aligned}
+$$
+
+Substituting gives
+
+$$
+\begin{aligned}
+S_{\text{fold}} 
+&= 20 
+\frac{\sin 45^{\circ}}{\sin 67.5^{\circ}} \\[6pt]
+&= 20 \times \frac{0.7071}{0.9239} \\[6pt]
+&\approx 15.3~\text{mm/yr}.
+\end{aligned}
+$$
