@@ -7,6 +7,8 @@ category: project
 giscus_comments: false
 ---
 
+## Introduction
+
 One can infer vertical uplift from the elastic dislocation model for a thrust fault. I'm using solutions from Chapter 3 of *Earthquake and Volcano Deformation* by Paul Segall (2010).
 
 Equation (3.70): Surface displacements (buried semi-infinite fault)
@@ -45,5 +47,52 @@ It seems clear that in the Himalayas, there is a flat–ramp–flat structure, a
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 mt-3 mt-md-0">
     {% include figure.liquid path="/assets/img/rampislocked/rampislocked.gif" title="Evolution of Uplift" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
+## Fold Slip and Kinematic Balance
+
+Based on CoInterFaultFold2D ([Meade, GitHub](https://github.com/brendanjmeade/CoInterFaultFold2D/)), 
+the idea of thin-skinned deformation is that a fold acts as a kinematic hinge above a fault-bend ramp. 
+As slip propagates along the ramp, the fold accommodates excess horizontal shortening while maintaining 
+vertical continuity of material. In this sense, the fold lifts the overlying sedimentary mass, 
+converting horizontal motion into vertical uplift. 
+
+In a flat–ramp–flat geometry, the ramp behaves as a dipping thrust fault, while the fold represents 
+the bisector surface connecting the ramp to the overlying horizontal flat. Together, they form a simple 
+kinematic wedge. As the ramp transfers slip upward, the fold redistributes it to maintain a continuous 
+topographic surface. Each fault segment contributes a vertical component of slip rate given by
+
+$$
+\begin{aligned}
+V_i &= S_i \sin(\delta_i),
+\end{aligned}
+$$
+
+where \(S_i\) is the total slip rate and \(\delta_i\) is the dip angle of the \(i^{\text{th}}\) segment.
+
+To ensure kinematic continuity at the ramp–fold junction, that is the material on both sides of 
+the hinge moves together without a discontinuity in vertical motion, the vertical components of slip must balance:
+
+$$
+\begin{aligned}
+S_{\text{fold}} \sin(\delta_{\text{fold}}) &= S_{\text{ramp}} \sin(\delta_{\text{ramp}}).
+\end{aligned}
+$$
+
+This enforces the fold transmits the same vertical motion that the ramp delivers, 
+effectively closing the "box" of uplift between their surface traces. Rearranging gives the expression for the fold slip rate:
+
+$$
+\begin{aligned}
+S_{\text{fold}}
+&= S_{\text{ramp}}
+\frac{\sin(\delta_{\text{ramp}})}{\sin(\delta_{\text{fold}})}.
+\end{aligned}
+$$
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-10 mt-3 mt-md-0">
+    {% include figure.liquid path="/assets/img/rampislocked/foldfamp.png" title="Fold Ramp" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
