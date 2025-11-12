@@ -22,6 +22,7 @@ u_2(x_1, x_2 = 0) &= -\frac{s}{\pi}\Big[ \sin\delta \tan^{-1}(\zeta) + \frac{\co
 \end{aligned}
 $$
 
+
 Equation (3.73): Surface displacements (finite-width, surface-breaking fault)
 
 This equation models a fault that ruptures from the surface down to a depth *d*. 
@@ -62,7 +63,7 @@ V_i &= S_i \sin(\delta_i),
 \end{aligned}
 $$
 
-where \(S_i\) is the total slip rate and \(\delta_i\) is the dip angle of the \(i^{\text{th}}\) segment.
+where $S_i$ is the total slip rate and $\delta_i$ is the dip angle of the $i^{\text{th}}$ segment.
 
 To ensure kinematic continuity at the ramp–fold junction, that is the material on both sides of 
 the hinge moves together without a discontinuity in vertical motion, the vertical components of slip must balance:
