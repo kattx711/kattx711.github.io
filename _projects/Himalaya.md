@@ -103,7 +103,7 @@ $$
 
 Substituting gives
 
-\[
+$$
 \begin{aligned}
 S_{\text{fold}} 
 &= 20 
@@ -111,5 +111,4 @@ S_{\text{fold}}
 &= 20 \times \frac{0.7071}{0.9239} \\[6pt]
 &\approx 15.3~\text{mm/yr}.
 \end{aligned}
-\]
-
+$$
