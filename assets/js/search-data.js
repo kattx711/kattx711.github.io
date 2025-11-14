@@ -396,16 +396,6 @@ ninja.data = [{
           description: "A trek through Sequoia National Park",
           section: "Projects",handler: () => {
               window.location.href = "/projects/HighSierra/";
-            },},{id: "projects-himalayan-uplift",
-          title: 'Himalayan Uplift',
-          description: "Kinematic dislocation model to vertical uplift in the Himalayas",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Himalaya/";
-            },},{id: "projects-iceland-adventures",
-          title: 'Iceland Adventures',
-          description: "Photo journal from Reykjavík, Akureyri, South Coast, and Icelandic Nature",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Iceland/";
             },},{
         id: 'social-email',
         title: 'email',
