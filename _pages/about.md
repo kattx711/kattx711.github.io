@@ -6,7 +6,7 @@ subtitle: "<a href='https://www.caltech.edu/' target='_blank'>California Institu
 
 profile:
   align: right
-  image: hawaiiprofile.jpeg
+  image: katprofile.jpeg
   image_circular: false
 
 
