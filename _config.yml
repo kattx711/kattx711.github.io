@@ -3,13 +3,13 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Brayden
+first_name: Katherine
 middle_name: 
-last_name: Noh
+last_name: Katherine
 contact_note: >
-  snoh@caltech.edu
+  katia@caltech.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Brayden Noh Research Website
+  Katherine Avanesov Website
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -18,7 +18,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your o
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: caltechlogo.png
 
-url: https://braydennoh.github.io # the base hostname & protocol for your site
+url: https://kattx711.github.io # the base hostname & protocol for your site
 baseurl: 
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
