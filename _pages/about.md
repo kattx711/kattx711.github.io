@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='https://eps.harvard.edu/' target='_blank'>Harvard Earth and Planetary Sciences</a> | braydennoh@fas.harvard.edu"
+subtitle: "<a href='https://www.caltech.edu/' target='_blank'>California Institute of Technology</a> | katia@caltech.edu"
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false
 
 
-selected_papers: true
+selected_papers: false
 
 announcements:
   enabled: false
@@ -23,6 +23,8 @@ latest_posts:
   limit: 3
 ---
 
-Hi, I’m **Brayden Noh**, a PhD student in **Earth and Planetary Sciences** at **Harvard University**, where I am advised by [Brendan Meade](https://brendanjmeade.github.io/). My research focuses on earthquake cycles and the interactions between tectonic deformation and landscape evolution, combining physical process modeling with statistical approaches.
+Hi, I’m **Katia Avanesov**, a double major in **Physics** and **Computer Science** at the **California Institute of Technology**.
 
-I completed my undergraduate studies at **Caltech**, where I worked with [Michael Lamb](https://lamb.caltech.edu/), [Omar Wani](https://www.omarwani.com/), [Karl Lang](https://www.karllang.info/), and [Vinamra Agrawal](https://vinagr.github.io/) on projects ranging from asteroid impact simulations to probabilistic geomorphic risk modeling.
+Since 2024, I’ve worked with the **Princeton CMS Group** at **CERN**, developing machine-learning classifiers for particle detection and contributing to a real-time anomaly-detection system for LHC data-quality monitoring.
+
+Beyond particle physics, I build full-stack technical systems, including a minimal **Java Virtual Machine**, a **C-based physics engine** for game design, and algorithms for anomaly and wear detection in high-frequency sensor data. I’m broadly interested in computational systems that are efficient, elegant, and grounded in strong physical or mathematical reasoning.
