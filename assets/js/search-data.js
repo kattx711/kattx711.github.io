@@ -391,12 +391,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-high-sierra-hike",
-          title: 'High Sierra Hike',
-          description: "A trek through Sequoia National Park",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/HighSierra/";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
