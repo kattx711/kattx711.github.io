@@ -2,13 +2,11 @@
 layout: page
 title: Art Porfolio
 description: 
-img: "assets/img/art/cover.jpeg
+img: "assets/img/art/cover.jpeg"
 importance: 2
 category: project
 related_publications: false
 ---
-
-## London
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
@@ -22,8 +20,6 @@ related_publications: false
   </div>
 </div>
 
-## Sevenoaks
-
 <div class="row mt-4">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/art/4.jpeg" class="img-fluid rounded z-depth-1" %}
@@ -35,8 +31,6 @@ related_publications: false
     {% include figure.liquid path="assets/img/art/6.jpeg" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-
-## Cambridge
 
 <div class="row mt-4">
   <div class="col-sm mt-3 mt-md-0">
