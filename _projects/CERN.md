@@ -2,7 +2,7 @@
 layout: page
 title: Search for Long-Lived Particles With HCAL Depth Segmentation
 description: 
-img:
+img: "assets/img/CERNImg/cover.png"
 importance: 1
 category: project
 ---
