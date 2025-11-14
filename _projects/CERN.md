@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Search for Long-Lived Particles With HCAL Depth Segmentation
-description: 
+title: HCAL LLP Search
+description: Search for Long-Lived Particles With HCAL Depth Segmentation
 img: "assets/img/CERNImg/cover.png"
 importance: 1
 category: project
