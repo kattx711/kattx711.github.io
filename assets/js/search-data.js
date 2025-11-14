@@ -396,8 +396,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ArtPorfolio/";
-            },},{id: "projects-hcal-llp-search",
-          title: 'HCAL LLP Search',
+            },},{id: "projects-cern-research",
+          title: 'CERN Research',
           description: "Search for Long-Lived Particles With HCAL Depth Segmentation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CERN/";
