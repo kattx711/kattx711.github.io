@@ -391,7 +391,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-search-for-long-lived-particles-with-hcal-depth-segmentation",
+          title: 'Search for Long-Lived Particles With HCAL Depth Segmentation',
+          description: "a project with no image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CERN/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
