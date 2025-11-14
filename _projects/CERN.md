@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HCAL LLP Search
+title: CERN Research
 description: Search for Long-Lived Particles With HCAL Depth Segmentation
 img: "assets/img/CERNImg/cover.png"
 importance: 1
