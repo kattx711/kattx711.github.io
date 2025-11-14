@@ -2,10 +2,10 @@
 layout: cv
 permalink: /cv/
 title: CV
-nav: false
+nav: true
 nav_order: 3
-cv_pdf: BraydenNohResumeHarvard.pdf
-description: Full curriculum vitae for Brayden Noh. PDF version available above.
+cv_pdf: KatherineAvanesov.pdf
+description: Full curriculum vitae for Katherine Avanesov. PDF version available above.
 toc:
   sidebar: left
 ---
