@@ -5,7 +5,7 @@ permalink: /projects/
 description: Cool Projects and Travels
 nav: true
 nav_order: 3
-display_categories: [project, travel]
+display_categories: [project]
 horizontal: false
 ---
 
