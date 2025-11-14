@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blogs",
+  },{id: "nav-cv",
+          title: "CV",
+          description: "Full curriculum vitae for Katherine Avanesov. PDF version available above.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "nav-blogs",
           title: "blogs",
           description: "Cool Projects and Travels",
           section: "Navigation",
