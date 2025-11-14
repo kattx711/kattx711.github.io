@@ -13,17 +13,21 @@ Over my two summers (2024 and 2025) on-site at CERN in Geneva as part of Caltech
 
 Although LLPs do possess a distinct signature in the form of the energy deposists they leave behind within the Hadronic Calorimeter inside the Compact Muon Solenoid (CMS) detector (illustrated below), the difficulty in detecting LLPs lies in their very small theorized cross-section, making their production an extremely rare process. As a result, this analysis necessitates the [design of classifiers](https://github.com/gk199/Run3-HCAL-LLP-Analysis/tree/kat-branch/Classifiers) with a very strong background rejection power and development of [statistical frameworks for background estimation](https://github.com/kattx711/Run3-HCAL-LLP-Analysis/tree/kat-branch/FakeRate): these two areas were the subprojects that I personally led.
 
-<p align="center">
-  <img src="/assets/img/CERNImg/img1.png" class="img-fluid rounded z-depth-1" style="max-width: 600px;" />
-</p>
+<div class="row justify-content-sm-center">
+  <div class="col-sm-10 mt-3 mt-md-0">
+    {% include figure.liquid path="/assets/img/CERNImg/img1.png" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
 
-<p align="center">
-  <img src="/assets/img/CERNImg/img2.png" class="img-fluid rounded z-depth-1" style="max-width: 900px;" />
-  <br>
-  <em>
-    A panel of plots showing the proportion of signal and background events selected after applying a given cut threshold. This illustrates the trade-off between applying too low of a threshold -- while much of the signal is selected, little background is rejected. If the threshold is too high, then not enough signal is retained and the statistical significance (effectively the signal-to-noise ratio) depletes. Thus, we search for the non-trivial threshold that maximises the statistical significance for our data.
-  </em>
-</p>
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-10 mt-3 mt-md-0">
+    {% include figure.liquid path="/assets/img/CERNImg/img2.png" class="img-fluid rounded z-depth-1" %}
+    <p class="mt-2">
+      <em>A panel of plots showing the proportion of signal and background events selected after applying a given cut threshold. This illustrates the trade-off between applying too low of a threshold — while much of the signal is selected, little background is rejected. If the threshold is too high, then not enough signal is retained and the statistical significance (effectively the signal-to-noise ratio) depletes. Thus, we search for the non-trivial threshold that maximises the statistical significance for our data.</em>
+    </p>
+  </div>
+</div>
 
 ### Key Links:
 
