@@ -23,8 +23,9 @@ latest_posts:
   limit: 3
 ---
 
-Hi, I’m **Katia Avanesov**, a double major in **Physics** and **Computer Science** at the **California Institute of Technology**.
+Hi, I'm Katia Avanesov and I'm a junior at the California Institute of Technology double majoring in Physics and Computer Science. In my free time, I enjoy making art, and I hope to bridge my passion for art and STEM through projects in software design, data visualisation, and modelling. 
 
-Since 2024, I’ve worked with the **Princeton CMS Group** at **CERN**, developing machine-learning classifiers for particle detection and contributing to a real-time anomaly-detection system for LHC data-quality monitoring.
+I have been a member of the Compact Muon Solenoid (CMS) Experiment at CERN since 2023, where I have been working under the mentorship of Professor Harvey Newman (Caltech) and Dr. Kiley Kennedy (Princeton), and developing machine-learning-based techniques to detect and classify [Long-Lived Particles](https://github.com/kattx711/Run3-HCAL-LLP-Analysis/). I have also been involved in several other projects involving machine learning such as developing an anomaly detection system for [automating CERN's Data Quality Monitoring](https://github.com/kattx711/ML4DQM/) or analysing anomalies in [computer-numerical-controlled processes](https://github.com/kattx711/Anomaly-Detection-for-CNC-Machining).
 
-Beyond particle physics, I build full-stack technical systems, including a minimal **Java Virtual Machine**, a **C-based physics engine** for game design, and algorithms for anomaly and wear detection in high-frequency sensor data. I’m broadly interested in computational systems that are efficient, elegant, and grounded in strong physical or mathematical reasoning.
+
+
