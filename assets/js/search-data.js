@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "Full curriculum vitae for Brayden Noh. PDF version available above.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-blogs",
           title: "blogs",
           description: "Cool Projects and Travels",
@@ -369,17 +362,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2015/math/";
-          
-        },
-      },{id: "post-a-post-with-code",
-        
-          title: "a post with code",
-        
-        description: "an example of a blog post with some code",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/code/";
           
         },
       },{id: "post-a-post-with-images",
