@@ -391,17 +391,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-cameras",
-          title: 'Cameras',
-          description: "Short essay on cameras",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Cameras/";
-            },},{id: "projects-fractalcnn",
-          title: 'FractalCNN',
-          description: "Inferring 3D fractal dimension from 2D floc images using synthetic datasets and CNNs",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/FractalCNN/";
-            },},{id: "projects-high-sierra-hike",
+          section: "News",},{id: "projects-high-sierra-hike",
           title: 'High Sierra Hike',
           description: "A trek through Sequoia National Park",
           section: "Projects",handler: () => {
