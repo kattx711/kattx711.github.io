@@ -3,7 +3,7 @@ layout: page
 title: Art Porfolio
 description: 
 img: "assets/img/art/cover.jpeg"
-importance: 2
+importance: 4
 category: project
 related_publications: false
 ---
