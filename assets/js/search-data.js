@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "CV",
-          description: "Full curriculum vitae for Katherine Avanesov.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -401,6 +401,16 @@ ninja.data = [{
           description: "Search for Long-Lived Particles With HCAL Depth Segmentation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CERN/";
+            },},{id: "projects-nanodb",
+          title: 'NanoDB',
+          description: "CS121 - Relational Databases and Database Systems",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CS121/";
+            },},{id: "projects-quantitative-research-internship",
+          title: 'Quantitative Research Internship',
+          description: "Vega Liquidation Risk Model",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/VegaLiquidation/";
             },},{
         id: 'social-email',
         title: 'email',
