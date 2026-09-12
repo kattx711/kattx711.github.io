@@ -2,7 +2,7 @@
 layout: page
 title: Quantitative Research Internship 
 description: Vega Liquidation Risk Model
-img: "assets/img/CERNImg/cover.png"
+img: "assets/img/clearStreet/clearstreetImg.png"
 importance: 2
 category: project
 ---

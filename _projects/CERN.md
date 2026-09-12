@@ -2,7 +2,7 @@
 layout: page
 title: Research at CERN
 description: Search for Long-Lived Particles With HCAL Depth Segmentation
-img: "assets/img/CERNImg/cover.png"
+img: "assets/img/CERNImg/cernImg.png"
 importance: 1
 category: project
 ---
