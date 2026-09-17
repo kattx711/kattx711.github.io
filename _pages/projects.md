@@ -8,7 +8,7 @@ nav_order: 3
 display_categories: [project]
 horizontal: false
 ---
-
+This is a new website so it is currently a work in progress and I have not yet added all my projects to this page -- check back for more project writeups soon!
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
